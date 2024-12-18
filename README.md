@@ -1,4 +1,3 @@
----
 
 ### **Ronnie A. Jeffrey**  
 *Innovative Developer | AI Enthusiast | Open-Source Contributor*
