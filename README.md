@@ -1,5 +1,3 @@
-Here’s a more detailed description for your GitHub profile, highlighting your projects, skills, and focus areas:
-
 ---
 
 ### **Ronnie A. Jeffrey**  
