@@ -1,75 +1,69 @@
 
 # **Ronnie A Jeffrey**  
-*Innovative Developer | AI Enthusiast | Open-Source Contributor*
+*Innovative Developer | AI Enthusiast | Student @ Karunya University*
+
+---
+# Welcome to Ronnie's GitHub Profile! 👋
+
+Hi there! I'm **Ronnie A Jeffrey**, a passionate developer, AI enthusiast, and problem-solver. I specialize in creating impactful solutions in fields like Artificial Intelligence, Machine Learning, Web Development, and Robotics. My repositories reflect my journey of learning, building, and innovating across a variety of technologies.
 
 ---
 
-Hi! I’m Ronnie, a passionate Student with a strong interest in **Machine learning**, and **AI-driven applications**,**Mobile & Web development**, **Exploring Gen-AI**. I thrive on building innovative, user-friendly solutions that solve real-world problems while constantly learning and expanding my skillset. My GitHub is a reflection of my journey, showcasing diverse projects across web, AI, and mobile app development.
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on advanced **ML models & Its Architecture** and **robotics projects**.  
+- 🌱 I’m exploring **SLAM (Simultaneous Localization and Mapping)** and its real-world applications.  
+- 💡 I love contributing to open-source projects and collaborating on innovative ideas.  
+- 🎯 My goal is to develop technology that makes a difference in people's lives.  
+- 💬 Ask me about **Machine Learning**, **Computer Vision**, or **SLAM**—I’m always happy to help!  
 
 ---
 
-### **🔭 What I Work On**
-- Developing **AI-powered applications** for automation and enhanced user experiences.
-- Building **clean and responsive websites** with a focus on accessibility and performance.
-- Exploring the intersection of **data science** and practical application, including APIs and data-driven systems.
+## 🔧 Skills & Tools
+
+### **Programming Languages**
+- Python, C, Java, C++, JavaScript
+
+### **Technologies**
+- Machine Learning: TensorFlow, PyTorch, scikit-learn  
+- Computer Vision: OpenCV, ORB-SLAM3  
+- Web Development: React, Node.js, HTML/CSS  
+- Robotics: ROS, SLAM technologies  
+- Databases: MySQL, MongoDB  
+
+### **Tools**
+- Git & GitHub, Docker, AWS(exploring), Linux (Ubuntu)  
 
 ---
 
-### **🚀 Featured Projects**
+## 📌 Featured Projects
 
-#### 1. **Hoodigo Website**  
-   - A modern and responsive website built using **HTML** and clean design principles.  
-   - Focus: Delivering a seamless browsing experience for users.
+### **[ORB-SLAM3 Installation Guide](https://github.com/ronnie-allen/ORB-SLAM3-Installation-Guide-for-Beginners)**  
+A beginner-friendly, step-by-step guide for installing ORB-SLAM3 on Ubuntu. Simplified for developers and researchers exploring SLAM systems.
 
-#### 2. **Agri API**  
-   - A Python-based project leveraging **Jupyter Notebook** to analyze agricultural datasets.  
-   - Features: Data processing, predictions, and API endpoints for agricultural solutions.
+### **[Music Genre Classification Model](https://github.com/ronnie-allen/Music_Genre_Model)**  
+A machine learning model for classifying music genres based on audio features. Ideal for music enthusiasts and ML practitioners.
 
-#### 3. **WeatherApp_RA**  
-   - A weather app that provides live updates and forecasts.  
-   - Technologies: Focused on usability and accurate weather data integration.
 
-#### 4. **Cratoss AI App**  
-   - An advanced **AI application** written in **C++**.  
-   - Designed to demonstrate the power of AI in simplifying complex tasks.
-
-#### 5. **AI Model SIH**  
-   - A custom AI model developed in **Python**, showcasing skills in machine learning and model training.  
-   - Built to solve specific challenges for Smart India Hackathon.
+Explore more on my [repositories page](https://github.com/ronnie-allen?tab=repositories).  
 
 ---
 
-### **💡 Skills and Technologies**
+## 📊 GitHub Stats
 
-- **Programming Languages:** Python, C++, Dart(Flutter), JavaScript, HTML/CSS  
-- **Frameworks & Libraries:** Numpy.Pandas,TensorFlow, Keras, Librosa, Flask  
-- **Mobile Development:** Android (Flutter, MVVM architecture)  
-- **Web Development:** Responsive design, REST APIs, and modern UI/UX principles  
-- **Tools:** Git, Jupyter Notebook, VS Code  
-- **Other Areas:** Machine Learning, Data Processing, Cloud Integration
+![Ronnie Allen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronnie-allen&show_icons=true&hide_title=true&count_private=true&hide=prs)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnie-allen&layout=compact)
 
 ---
 
-### **🌟 GitHub Stats**
+## 🌐 Let's Connect!
 
-- **Repositories:** 10+  
-- **Stars:** 6  
-- **Major Contributions:** Web apps, AI models, Android applications.  
-
----
-
-### **🌱 Current Focus**
-
-- Improving my AI model-building expertise and learning advanced deep learning techniques.  
-- Building robust web APIs for real-world applications.  
-- Exploring full-stack development to integrate frontend, backend, and AI systems seamlessly.
+- **LinkedIn**: [Ronnie Allen](https://www.linkedin.com/in/ronnie-allen)  
+- **Portfolio**: [ronnie-allen.dev](https://ronnie-allen.dev)  
+- **Email**: ronnie.allen@example.com  
 
 ---
 
-### **🤝 Let’s Connect!**
+## 🌟 Acknowledgments
 
-I’m always open to collaborating on interesting projects, especially in the domains of AI, web development, and mobile apps. Let’s work together to create impactful solutions!  
-
----
-
-Feel free to use this or modify it further to suit your style or additional accomplishments you'd like to highlight.
+Thank you for visiting my GitHub profile! I am always open to collaboration, feedback, and new opportunities. Let’s innovate together! 🚀
