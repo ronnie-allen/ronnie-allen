@@ -58,9 +58,9 @@ Explore more on my [repositories page](https://github.com/ronnie-allen?tab=repos
 
 ## 🌐 Let's Connect!
 
-- **LinkedIn**: [Ronnie Allen](https://www.linkedin.com/in/ronnie-allen)  
-- **Portfolio**: [ronnie-allen.dev](https://ronnie-allen.dev)  
-- **Email**: ronnie.allen@example.com  
+- **LinkedIn**: [Ronnie Allen](https://www.linkedin.com/in/ronnie-a-jeffrey)  
+- **Portfolio**: [ronnie-allen.dev](https://ronnieallen.netlify.app/)  
+- **Email**: ronnieallen2005@gmail.com  
 
 ---
 
