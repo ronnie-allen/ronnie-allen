@@ -1,69 +1,93 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ronnie-allen">
 
-# **Ronnie A Jeffrey**  
-*Innovative Developer | AI Enthusiast | Student @ Karunya University*
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ronnie A +Jeffrey....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
----
-# Welcome to Ronnie's GitHub Profile! 👋
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Ronnie A Jeffrey, Student & Passionate Developer from Coimbatore,Tamil Nadu
+  <br>
+  🔬 I'm currently studying for my Bachelors at Karunya University, on Artificial Intellegence
+  <br>
+  💻 I love explore technologies and learn anythings about it
+  <br>
+  📚 I’m currently learning on AI Agents and LLMs
+  <br>
+  📫 How to reach me: <a href="mailto: ronnieallen2005@gmail.com">ronnieallen2005@gmail.com</a>
+</p>
 
-Hi there! I'm **Ronnie A Jeffrey**, a passionate developer, AI enthusiast, and problem-solver. I specialize in creating impactful solutions in fields like Artificial Intelligence, Machine Learning, Web Development, and Robotics. My repositories reflect my journey of learning, building, and innovating across a variety of technologies.
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="https://skillicons.dev/icons?i=c" /></code>
+  <code><img title="C++" height="25" src="https://skillicons.dev/icons?i=cpp" /></code>
+  <code><img title="Python" height="25" src="https://skillicons.dev/icons?i=py" /></code>
+  <code><img title="Java" height="25" src="https://skillicons.dev/icons?i=java" /></code>
+  <code><img title="JavaScript" height="25" src="https://skillicons.dev/icons?i=js" /></code>
+  <code><img title="TypeScript" height="25" src="https://skillicons.dev/icons?i=ts" /></code>
+  <code><img title="Dart" height="25" src="https://skillicons.dev/icons?i=dart" /></code>
+  <br/>
+ <code><img title="HTML5" height="25" src="https://skillicons.dev/icons?i=html" /></code>
+  <code><img title="CSS" height="25" src="https://skillicons.dev/icons?i=css" /></code>
+  <code><img title="Bootstrap" height="25" src="https://skillicons.dev/icons?i=bootstrap" /></code>
+  <code><img title="React" height="25" src="https://skillicons.dev/icons?i=react" /></code>
+  <code><img title="Next.js" height="25" src="https://skillicons.dev/icons?i=nextjs" /></code>
+  <code><img title="Node.js" height="25" src="https://skillicons.dev/icons?i=nodejs" /></code>
+  <code><img title="Express.js" height="25" src="https://skillicons.dev/icons?i=express" /></code>
+    <br/>
+  <code><img title="Flutter" height="25" src="https://skillicons.dev/icons?i=flutter" /></code>
+  <code><img title="Django" height="25" src="https://skillicons.dev/icons?i=django" /></code>
+  <code><img title="Flask" height="25" src="https://skillicons.dev/icons?i=flask" /></code>
+  <code><img title="FastAPI" height="25" src="https://skillicons.dev/icons?i=fastapi" /></code>
+  <code><img title="Postman" height="25" src="https://skillicons.dev/icons?i=postman" /></code>
+  <code><img title="MongoDB" height="25" src="https://skillicons.dev/icons?i=mongodb" /></code>
+  <code><img title="MySQL" height="25" src="https://skillicons.dev/icons?i=mysql" /></code>
+  <code><img title="PostgreSQL" height="25" src="https://skillicons.dev/icons?i=postgres" /></code>
+    <br/>
+  <code><img title="PyTorch" height="25" src="https://skillicons.dev/icons?i=pytorch" /></code>
+  <code><img title="TensorFlow" height="25" src="https://skillicons.dev/icons?i=tensorflow" /></code>
+  <code><img title="scikit-learn" height="25" src="https://skillicons.dev/icons?i=sklearn" /></code>
+  <code><img title="OpenCV" height="25" src="https://skillicons.dev/icons?i=opencv" /></code>
+    <br/>
+<code><img title="Git" height="25" src="https://skillicons.dev/icons?i=git" /></code>
+  <code><img title="Docker" height="25" src="https://skillicons.dev/icons?i=docker" /></code>
+  <code><img title="Linux" height="25" src="https://skillicons.dev/icons?i=linux" /></code>
+  <code><img title="Ubuntu" height="25" src="https://skillicons.dev/icons?i=ubuntu" /></code>
+  <code><img title="Firebase" height="25" src="https://skillicons.dev/icons?i=firebase" /></code>
+  <code><img title="Figma" height="25" src="https://skillicons.dev/icons?i=figma" /></code>
+</p>
 
----
+<hr>
 
-## 👨‍💻 About Me
+<h2 align="center">⚡ Stats ⚡</h2>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ronnie-allen&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ronnie-allen&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnie-allen&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
 
-- 🔭 I’m currently working on advanced **ML models & Its Architecture** and **robotics projects**.  
-- 🌱 I’m exploring **SLAM (Simultaneous Localization and Mapping)** and its real-world applications.  
-- 💡 I love contributing to open-source projects and collaborating on innovative ideas.  
-- 🎯 My goal is to develop technology that makes a difference in people's lives.  
-- 💬 Ask me about **Machine Learning**, **Computer Vision**, or **SLAM**—I’m always happy to help!  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronnie-allen&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
----
-
-## 🔧 Skills & Tools
-
-### **Programming Languages**
-- Python, C, Java, C++, JavaScript
-
-### **Technologies**
-- Machine Learning: TensorFlow, PyTorch, scikit-learn  
-- Computer Vision: OpenCV, ORB-SLAM3  
-- Web Development: React, Node.js, HTML/CSS  
-- Robotics: ROS, SLAM technologies  
-- Databases: MySQL, MongoDB  
-
-### **Tools**
-- Git & GitHub, Docker, AWS(exploring), Linux (Ubuntu)  
-
----
-
-## 📌 Featured Projects
-
-### **[ORB-SLAM3 Installation Guide](https://github.com/ronnie-allen/ORB-SLAM3-Installation-Guide-for-Beginners)**  
-A beginner-friendly, step-by-step guide for installing ORB-SLAM3 on Ubuntu. Simplified for developers and researchers exploring SLAM systems.
-
-### **[Music Genre Classification Model](https://github.com/ronnie-allen/Music_Genre_Model)**  
-A machine learning model for classifying music genres based on audio features. Ideal for music enthusiasts and ML practitioners.
-
-
-Explore more on my [repositories page](https://github.com/ronnie-allen?tab=repositories).  
-
----
-
-## 📊 GitHub Stats
-
-![Ronnie Allen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronnie-allen&show_icons=true&hide_title=true&count_private=true&hide=prs)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnie-allen&layout=compact)
-
----
-
-## 🌐 Let's Connect!
-
-- **LinkedIn**: [Ronnie Allen](https://www.linkedin.com/in/ronnie-a-jeffrey)  
-- **Portfolio**: [ronnie-allen.dev](https://ronnieallen.netlify.app/)  
-- **Email**: ronnieallen2005@gmail.com  
-
----
-
-## 🌟 Acknowledgments
-
-Thank you for visiting my GitHub profile! I am always open to collaboration, feedback, and new opportunities. Let’s innovate together! 🚀
+<hr>
