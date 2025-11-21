@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;T-This+is+Ronnie+A+Jeffrey--;AI+Enthusiast+%7C+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;ThissThis+This+is+Ronnie%20A%20+Jeffrey....Here;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -74,95 +74,93 @@ Reading: Latest research papers on LLMs and Transformer architectures
   <tr>
     <td>⚡</td>
     <td><strong>Fun Fact</strong></td>
-    <td>I debug code faster with coffee ☕ and solve problems better with prayer 🙏</td>
+    <td>I debug code faster with Horlicks ☕ and solve problems better with prayer 🙏</td>
   </tr>
 </table>
 
 <hr>
 
-## 🎨 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ronnie-allen&repo=ronnie-allen&theme=react&hide_border=true)](https://github.com/ronnie-allen/ronnie-allen)
-
-</div>
-
-<p align="center">
-  <em>⭐ Check out my repositories for more exciting projects!</em>
-</p>
-
-<hr>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ronnie-allen&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
-<hr>
-
 ## 🔥 Tech Stack
 
-### 💻 Programming Languages
-<p align="center">
-  <code><img title="C" height="30" src="https://skillicons.dev/icons?i=c" /></code>
-  <code><img title="C++" height="30" src="https://skillicons.dev/icons?i=cpp" /></code>
-  <code><img title="Python" height="30" src="https://skillicons.dev/icons?i=py" /></code>
-  <code><img title="Java" height="30" src="https://skillicons.dev/icons?i=java" /></code>
-  <code><img title="JavaScript" height="30" src="https://skillicons.dev/icons?i=js" /></code>
-  <code><img title="TypeScript" height="30" src="https://skillicons.dev/icons?i=ts" /></code>
-  <code><img title="Dart" height="30" src="https://skillicons.dev/icons?i=dart" /></code>
-</p>
-
-### 🌐 Frontend Development
-<p align="center">
-  <code><img title="HTML5" height="30" src="https://skillicons.dev/icons?i=html" /></code>
-  <code><img title="CSS3" height="30" src="https://skillicons.dev/icons?i=css" /></code>
-  <code><img title="Bootstrap" height="30" src="https://skillicons.dev/icons?i=bootstrap" /></code>
-  <code><img title="React" height="30" src="https://skillicons.dev/icons?i=react" /></code>
-  <code><img title="Next.js" height="30" src="https://skillicons.dev/icons?i=nextjs" /></code>
-</p>
-
-### ⚙️ Backend Development
-<p align="center">
-  <code><img title="Node.js" height="30" src="https://skillicons.dev/icons?i=nodejs" /></code>
-  <code><img title="Express.js" height="30" src="https://skillicons.dev/icons?i=express" /></code>
-  <code><img title="Django" height="30" src="https://skillicons.dev/icons?i=django" /></code>
-  <code><img title="Flask" height="30" src="https://skillicons.dev/icons?i=flask" /></code>
-  <code><img title="FastAPI" height="30" src="https://skillicons.dev/icons?i=fastapi" /></code>
-</p>
-
-### 📱 Mobile Development
-<p align="center">
-  <code><img title="Flutter" height="30" src="https://skillicons.dev/icons?i=flutter" /></code>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <code><img title="MongoDB" height="30" src="https://skillicons.dev/icons?i=mongodb" /></code>
-  <code><img title="MySQL" height="30" src="https://skillicons.dev/icons?i=mysql" /></code>
-  <code><img title="PostgreSQL" height="30" src="https://skillicons.dev/icons?i=postgres" /></code>
-  <code><img title="Firebase" height="30" src="https://skillicons.dev/icons?i=firebase" /></code>
-</p>
-
-### �� AI/ML & Data Science
-<p align="center">
-  <code><img title="PyTorch" height="30" src="https://skillicons.dev/icons?i=pytorch" /></code>
-  <code><img title="TensorFlow" height="30" src="https://skillicons.dev/icons?i=tensorflow" /></code>
-  <code><img title="scikit-learn" height="30" src="https://skillicons.dev/icons?i=sklearn" /></code>
-  <code><img title="OpenCV" height="30" src="https://skillicons.dev/icons?i=opencv" /></code>
-</p>
-
-### 🛠️ Tools & Others
-<p align="center">
-  <code><img title="Git" height="30" src="https://skillicons.dev/icons?i=git" /></code>
-  <code><img title="Docker" height="30" src="https://skillicons.dev/icons?i=docker" /></code>
-  <code><img title="Linux" height="30" src="https://skillicons.dev/icons?i=linux" /></code>
-  <code><img title="Ubuntu" height="30" src="https://skillicons.dev/icons?i=ubuntu" /></code>
-  <code><img title="Postman" height="30" src="https://skillicons.dev/icons?i=postman" /></code>
-  <code><img title="Figma" height="30" src="https://skillicons.dev/icons?i=figma" /></code>
-</p>
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>💻 Programming Languages</strong></td>
+    <td>
+      <img title="C" height="25" src="https://skillicons.dev/icons?i=c" />
+      <img title="C++" height="25" src="https://skillicons.dev/icons?i=cpp" />
+      <img title="Python" height="25" src="https://skillicons.dev/icons?i=py" />
+      <img title="Java" height="25" src="https://skillicons.dev/icons?i=java" />
+      <img title="JavaScript" height="25" src="https://skillicons.dev/icons?i=js" />
+      <img title="TypeScript" height="25" src="https://skillicons.dev/icons?i=ts" />
+      <img title="Dart" height="25" src="https://skillicons.dev/icons?i=dart" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Frontend Development</strong></td>
+    <td>
+      <img title="HTML5" height="25" src="https://skillicons.dev/icons?i=html" />
+      <img title="CSS3" height="25" src="https://skillicons.dev/icons?i=css" />
+      <img title="Bootstrap" height="25" src="https://skillicons.dev/icons?i=bootstrap" />
+      <img title="React" height="25" src="https://skillicons.dev/icons?i=react" />
+      <img title="Next.js" height="25" src="https://skillicons.dev/icons?i=nextjs" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Backend Development</strong></td>
+    <td>
+      <img title="Node.js" height="25" src="https://skillicons.dev/icons?i=nodejs" />
+      <img title="Express.js" height="25" src="https://skillicons.dev/icons?i=express" />
+      <img title="Django" height="25" src="https://skillicons.dev/icons?i=django" />
+      <img title="Flask" height="25" src="https://skillicons.dev/icons?i=flask" />
+      <img title="FastAPI" height="25" src="https://skillicons.dev/icons?i=fastapi" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>📱 Mobile Development</strong></td>
+    <td>
+      <img title="Flutter" height="25" src="https://skillicons.dev/icons?i=flutter" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Databases</strong></td>
+    <td>
+      <img title="MongoDB" height="25" src="https://skillicons.dev/icons?i=mongodb" />
+      <img title="MySQL" height="25" src="https://skillicons.dev/icons?i=mysql" />
+      <img title="PostgreSQL" height="25" src="https://skillicons.dev/icons?i=postgres" />
+      <img title="Firebase" height="25" src="https://skillicons.dev/icons?i=firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🤖 AI/ML & Data Science</strong></td>
+    <td>
+      <img title="PyTorch" height="25" src="https://skillicons.dev/icons?i=pytorch" />
+      <img title="TensorFlow" height="25" src="https://skillicons.dev/icons?i=tensorflow" />
+      <img title="scikit-learn" height="25" src="https://skillicons.dev/icons?i=sklearn" />
+      <img title="OpenCV" height="25" src="https://skillicons.dev/icons?i=opencv" />
+      <img title="LangChain" height="25" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" />
+      <img title="LangGraph" height="25" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" />
+      <img title="LangSmith" height="25" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" />
+      <img title="AutoGen" height="25" src="https://avatars.githubusercontent.com/u/11856285?s=200&v=4" />
+      <img title="CrewAI" height="25" src="https://avatars.githubusercontent.com/u/158965713?s=200&v=4" />
+      <img title="MCP" height="25" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Tools & Others</strong></td>
+    <td>
+      <img title="Git" height="25" src="https://skillicons.dev/icons?i=git" />
+      <img title="Docker" height="25" src="https://skillicons.dev/icons?i=docker" />
+      <img title="Linux" height="25" src="https://skillicons.dev/icons?i=linux" />
+      <img title="Ubuntu" height="25" src="https://skillicons.dev/icons?i=ubuntu" />
+      <img title="Postman" height="25" src="https://skillicons.dev/icons?i=postman" />
+      <img title="Figma" height="25" src="https://skillicons.dev/icons?i=figma" />
+    </td>
+  </tr>
+</table>
 
 <hr>
 
@@ -179,13 +177,6 @@ Reading: Latest research papers on LLMs and Transformer architectures
   </a>
 </p>
 
-### 🔥 Streak Stats
-
-<p align="center">
-  <a href="https://github.com/ronnie-allen">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=ronnie-allen&theme=react&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</p>
 
 ### 📉 Activity Graph
 
@@ -231,6 +222,9 @@ Reading: Latest research papers on LLMs and Transformer architectures
 </p>
 
 <p align="center">
+  <a href="https://ronnie-a-jeffrey.tech">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://www.linkedin.com/in/ronnie-a-jeffrey-0901b22bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -246,15 +240,6 @@ Reading: Latest research papers on LLMs and Transformer architectures
 </p>
 
 
-### 🌐 Find Me Around The Web
-
-<p align="center">
-  <a href="https://github.com/ronnie-allen">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<hr>
 
 ## 📫 Quick Contact
 
@@ -278,7 +263,7 @@ Reading: Latest research papers on LLMs and Transformer architectures
   </tr>
   <tr>
     <td align="center">📚</td>
-    <td>Contribute to 50+ open-source projects</td>
+    <td>Contribute to 5+ open-source projects</td>
   </tr>
   <tr>
     <td align="center">💼</td>
@@ -306,13 +291,6 @@ Reading: Latest research papers on LLMs and Transformer architectures
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<hr>
-
-## 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26ewqkbqxegvgn3zv4i6qpmze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
-</p>
 
 <hr>
 
@@ -321,22 +299,6 @@ Reading: Latest research papers on LLMs and Transformer architectures
 <p align="center">
   <img src="https://img.shields.io/github/followers/ronnie-allen?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/ronnie-allen?label=Stars&style=social" alt="Stars" />
-</p>
-
-<hr>
-
-## 🐍 Watch My Contributions Get Eaten by a Snake!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronnie-allen/ronnie-allen/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronnie-allen/ronnie-allen/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ronnie-allen/ronnie-allen/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ronnie-allen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
